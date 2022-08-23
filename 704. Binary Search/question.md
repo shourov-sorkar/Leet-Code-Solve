@@ -6,7 +6,6 @@ You must write an algorithm with O(log n) runtime complexity.
 
 ## Example 1:
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 Input: nums = [-1,0,3,5,9,12], target = 9
